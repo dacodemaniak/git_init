@@ -1,0 +1,19 @@
+## System files
+.DS_Store
+
+## Configuration variables
+.env
+*.ppk
+*.pub
+
+## Dev tools specific
+node_modules
+.pyenv
+vendor
+vendors
+
+## Logs
+log
+logs
+
+
