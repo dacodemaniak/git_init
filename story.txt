@@ -1,0 +1,2 @@
+A nice GIT story
+Wazup in GIT
