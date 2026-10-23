@@ -1,8 +1,12 @@
+/**
+* Sets variables
+*/
 $color: rgb(0, 255, 17);
+$darkmode: #8888;
 
 .lightmode {}
 
-$darkmode: #8888;
+
 
 .darkmode {
     background-color: $darkmode;
