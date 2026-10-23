@@ -1,3 +1,10 @@
 $color: rgb(0, 255, 17);
 
 .lightmode {}
+
+$darkmode: #8888;
+
+.darkmode {
+    background-color: $darkmode;
+}
+
